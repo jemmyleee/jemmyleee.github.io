@@ -29,11 +29,6 @@ Outside of research, I love embracing uncertainty, exploring new ideas, and cont
 
 Thanks for visiting — feel free to connect with me!
 
-<div style="margin-top: 10px;">
-<a href="https://github.com/jemmyleee" target="_blank" style="margin-right:10px;">🌟 GitHub</a> 
-<a href="https://scholar.google.com/citations?user=qW2ztgEAAAAJ" target="_blank" style="margin-right:10px;">📚 Google Scholar</a>
-<a href="mailto:jemmy112322@gmail.com" style="margin-right:10px;">✉️ Email Me</a>
-</div>
 
 ---
 
@@ -47,9 +42,25 @@ Thanks for visiting — feel free to connect with me!
 
 # 📝 Publications
 
-- **Jen-Wei Lee**, Chia-Ming Lee, Fu-En Yang, Yu-Chiang Frank Wang, Chih-Chung Hsu.  
-  **FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization**  
-  *(Under Review at ICCV 2025)*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/FracQuant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization**
+
+Chia-Ming Lee, **Jen-Wei Lee**, <a href="https://fuenyang1127.github.io/" target="https://fuenyang1127.github.io/">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="https://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>
+
+
+**Keywords**
+
+- Efficient Image Super-Resolution
+- Fractal Coding for Image Compression
+- Network Compression and Quantization
+  
+  <div class="links">
+      <a href="https://ming053l.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+  </div>
+</div>
+</div>
 
 ---
 
