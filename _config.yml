@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jen-Wei Lee"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "A Master's student in National Cheng Kung University, working on computer vision and machine learning."
 repository               : "jemmyleee/jemmyleee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jen-Wei Lee"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "National Cheng Kung University(NCKU)"
   location         : "Taiwan"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github jemmyleee"
+  github           : "https://github.com/jemmyleee"
   google_plus      :
   keybase          :
   instagram        :
