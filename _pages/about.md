@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Home"
+excerpt: "Welcome to Jen-Wei Lee's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,41 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
+
 Hello, I'm **Jen-Wei Lee** — a former mathematics teacher turned machine learning enthusiast.
 
-Currently, I am pursuing my Master's degree in Data Science at National Cheng Kung University, specializing in Computer Vision and Deep Learning. My research interests include adversarial attacks, image restoration, and model optimization. I am passionate about bridging rigorous mathematical theory with real-world AI applications.
+I am currently a Master’s student in Data Science at **National Cheng Kung University**, specializing in **Computer Vision** and **Deep Learning**.  
+My research interests include **adversarial attacks**, **image restoration**, and **model optimization**, combining rigorous mathematics with real-world AI applications.
 
-In competitions such as NeurIPS 2024 and the Jane Street Market Prediction Challenge, I have honed my skills in adversarial robustness and predictive modeling. I also contributed to academic research on fractal-based quantization for super-resolution, with a submission to ICCV 2025.
+I have competed at **NeurIPS** and **Jane Street**, and contributed to academic research with a submission to **ICCV 2025**.  
+Outside of research, I love embracing uncertainty, exploring new ideas, and continuously challenging myself to grow.
 
-Outside of research, I enjoy exploring new ideas, embracing challenges, and continuously expanding my technical and creative horizons.
+Thanks for visiting — feel free to connect with me!
 
-Thanks for visiting my website — feel free to reach out!
+<div style="margin-top: 10px;">
+<a href="https://github.com/jemmyleee" target="_blank" style="margin-right:10px;">🌟 GitHub</a> 
+<a href="https://scholar.google.com/citations?user=qW2ztgEAAAAJ" target="_blank" style="margin-right:10px;">📚 Google Scholar</a>
+<a href="mailto:jemmy112322@gmail.com" style="margin-right:10px;">✉️ Email Me</a>
+</div>
 
 ---
 
-# 🔥 News
-- *2024.04*: 🎉 Submitted "FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization" to ICCV 2025.
-- *2024.03*: 🏆 Secured 9th place in the NeurIPS 2024 Watermark Removal Challenge.
-- *2024.01*: 🏅 Ranked in the Top 10% at the Jane Street Market Prediction Competition.
+# 🔥 Latest News
+- *2025.04* &nbsp; 🎉 **9th Place** at NTIRE25 Real-World Face Restoration Challenge.
+- *2025.03* &nbsp; 🎯 **Submitted** "FracQuant" paper to ICCV 2025.
+- *2025.01* &nbsp; 📈 **Top 10%** at Jane Street Market Prediction Competition.
+- *2024.09* &nbsp; 🏆 **9th Place** at NeurIPS 2024 Watermark Removal Challenge.
 
-# 📝 Publications 
+---
+
+# 📝 Publications
 
 - **Jen-Wei Lee**, Chia-Ming Lee, Fu-En Yang, Yu-Chiang Frank Wang, Chih-Chung Hsu.  
-  *FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization* (Under Review, ICCV 2025).
+  **FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization**  
+  *(Under Review at ICCV 2025)*
+
+---
 
 # 🎖 Honors and Awards
-- *2024.03*: 9th Place, NeurIPS 2024 Watermark Removal Challenge
-- *2024.01*: Top 10%, Jane Street Market Prediction Competition
+- *2025.04*: 🏆 9th Place, NTIRE25 Real-World Face Restoration Challenge
+- *2025.01*: 📈 Top 10%, Jane Street Market Prediction Competition
+- *2024.09*: 🏆 9th Place, NeurIPS 2024 Watermark Removal Challenge
 
-# 📖 Education
-- *2024 – Present*, Master’s in Data Science, National Cheng Kung University
-- *2016 – 2020*, Bachelor’s in Mathematics, National Taiwan Normal University
+---
+
+# 📚 Education
+- 🎓 *2024 – Present*: Master’s in Data Science, National Cheng Kung University
+- 🎓 *2016 – 2020*: Bachelor’s in Mathematics, National Taiwan Normal University
+
+---
 
 # 💬 Invited Talks
 - *(Coming Soon)*
+
+---
 
 # 💻 Internships
 - *(Seeking Summer 2025 Internship Opportunities)*
 
 ---
-
