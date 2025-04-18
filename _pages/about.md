@@ -47,7 +47,7 @@ Thanks for visiting — feel free to connect with me!
   
 **FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization**
 
-Chia-Ming Lee, **Jen-Wei Lee**, <a href="https://fuenyang1127.github.io/" target="https://fuenyang1127.github.io/">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="https://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>
+<a href="https://ming053l.github.io/" target="https://ming053l.github.io/">Chia-Ming Lee</a> , **Jen-Wei Lee**, <a href="https://fuenyang1127.github.io/" target="https://fuenyang1127.github.io/">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="https://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>
 
 
 **Keywords**
@@ -57,7 +57,7 @@ Chia-Ming Lee, **Jen-Wei Lee**, <a href="https://fuenyang1127.github.io/" target
 - Network Compression and Quantization
   
   <div class="links">
-      <a href="https://ming053l.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+      <a href="https://jemmyleee.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
   </div>
 </div>
 </div>
