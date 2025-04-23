@@ -57,7 +57,7 @@ Thanks for visiting — feel free to connect with me!
 - Network Compression and Quantization
   
   <div class="links">
-      <a href="#!" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+      <a href="javascript:void(0)" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
   </div>
 </div>
 </div>
