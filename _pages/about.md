@@ -24,7 +24,7 @@ Hello, I'm **Jen-Wei Lee** — a former mathematics teacher turned machine learn
 I am currently a Master’s student in Data Science at **National Cheng Kung University**, specializing in **Computer Vision** and **Deep Learning**.  
 My research interests include **adversarial attacks**, **image restoration**, and **model optimization**, combining rigorous mathematics with real-world AI applications.
 
-I have competed at **NeurIPS** and **Jane Street**, and contributed to academic research with a submission to **ICCV 2025**.  
+I have competed at **NeurIPS**, **Jane Street** and **NTIRE2025**, and contributed to academic research with a submission to **ICCV 2025**.  
 Outside of research, I love embracing uncertainty, exploring new ideas, and continuously challenging myself to grow.
 
 Thanks for visiting — feel free to connect with me!
