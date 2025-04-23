@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jen-Wei Lee"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "/images/my_pic.jpg"
   bio              : "National Cheng Kung University(NCKU)"
   location         : "Taiwan"
   employer         :
