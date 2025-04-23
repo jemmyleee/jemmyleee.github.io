@@ -57,7 +57,7 @@ Thanks for visiting — feel free to connect with me!
 - Network Compression and Quantization
   
   <div class="links">
-      <a href="https://jemmyleee.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+      <a href="#" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
   </div>
 </div>
 </div>
