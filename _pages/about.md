@@ -33,6 +33,7 @@ Thanks for visiting — feel free to connect with me!
 ---
 
 # 🔥 Latest News
+- *2025.06* &nbsp; 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
 - *2025.04* &nbsp; 🎉 **9th Place** at NTIRE25 Real-World Face Restoration Challenge.
 - *2025.03* &nbsp; 🎯 **Submitted** "FracQuant" paper to ICCV 2025.
 - *2025.01* &nbsp; 📈 **Top 10%** at Jane Street Market Prediction Competition.
