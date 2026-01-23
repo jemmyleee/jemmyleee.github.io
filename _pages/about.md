@@ -33,9 +33,11 @@ Thanks for visiting — feel free to connect with me!
 ---
 
 # 🔥 Latest News
+- *2026.01* &nbsp; 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
+- *2025.12* &nbsp; 🏆 **poster** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
+- *2025.11* &nbsp; 🏆 **3th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
 - *2025.06* &nbsp; 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
 - *2025.04* &nbsp; 🎉 **9th Place** at NTIRE25 Real-World Face Restoration Challenge.
-- *2025.03* &nbsp; 🎯 **Submitted** "FracQuant" paper to ICCV 2025.
 - *2025.01* &nbsp; 📈 **Top 10%** at Jane Street Market Prediction Competition.
 - *2024.09* &nbsp; 🏆 **9th Place** at NeurIPS 2024 Watermark Removal Challenge.
 
@@ -43,25 +45,42 @@ Thanks for visiting — feel free to connect with me!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICCV25</div><img src='images/FracQuant.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**FracQuant: Fractal Complexity Assessment for Content-aware Image Super-resolution Network Quantization**
-
-<a href="https://ming053l.github.io/" target="_blank">Chia-Ming Lee</a> , **Jen-Wei Lee**, <a href="https://fuenyang1127.github.io/" target="_blank">Fu-En Yang</a>, <a href="https://vllab.ee.ntu.edu.tw/ycwang.html" target="_blank">Yu-Chiang Frank Wang</a>, <a href="https://cchsu.info/" target="_blank">Chih-Chung Hsu</a>
-
-
-**Keywords**
-
-- Efficient Image Super-Resolution
-- Fractal Coding for Image Compression
-- Network Compression and Quantization
-  
-  <div class="links">
-      <a href="https://jemmyleee.github.io/" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arxiv</a>
+  <div class='paper-box' style="display: flex; flex-wrap: wrap; margin-bottom: 35px; align-items: flex-start;">
+    <div class='paper-box-image' style="flex: 0 0 350px; max-width: 100%; margin-right: 25px; position: relative;">
+      <div style="position: absolute; background: #c0392b; color: white; padding: 2px 10px; font-size: 13px; font-weight: bold; top: 10px; left: 0px; z-index: 1;">WACV 2026</div>
+      <img src='images/wweuie.png' style="width: 100%; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border-radius: 2px;">
+    </div>
+    <div class='paper-box-text' style="flex: 1; min-width: 300px;">
+      <h4 style="margin: 0 0 10px 0; font-size: 1.15em; color: #333;">WWE-UIE: A Wavelet & White Balance Efficient Network for Underwater Image Enhancemen</h4>
+      <p style="margin: 0 0 10px 0; font-size: 1.05em;">Ching-Heng Cheng, <strong>Jen-Wei Lee</strong>, Chia-Ming Lee, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a></p>
+      <div style="margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+        <span style="font-weight: bold;">Keywords</span>
+        <img src="https://img.shields.io/github/stars/chingheng0808/WWE-UIE?style=social" alt="Github Stars">
+      </div>
+      <ul style="margin: 0 0 15px 20px; padding: 0; color: #555;">
+        <li>Single Image Shadow Removal</li>
+      </ul>
+      <div class="links" style="display: flex; flex-wrap: wrap; gap: 6px;">
+        <a href="https://arxiv.org/abs/2511.16321" target="_blank" style="background: #7a838b; color: white; padding: 5px 15px; border-radius: 4px; font-size: 0.9em; font-weight: bold; text-decoration: none;">arxiv</a>
+        <a href="https://github.com/chingheng0808/WWE-UIE" target="_blank" style="background: #7a838b; color: white; padding: 5px 15px; border-radius: 4px; font-size: 0.9em; font-weight: bold; text-decoration: none;">Github</a>
+      </div>
+    </div>
   </div>
-</div>
-</div>
+
+  <div class='paper-box' style="display: flex; flex-wrap: wrap; margin-bottom: 35px; align-items: flex-start;">
+    <div class='paper-box-image' style="flex: 0 0 350px; max-width: 100%; margin-right: 25px; position: relative;">
+      <div style="position: absolute; background: #e67e22; color: white; padding: 2px 10px; font-size: 13px; font-weight: bold; top: 10px; left: 0px; z-index: 1;">ICASSP 2026</div>
+      <img src='images/SSCNet.png' style="width: 100%; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border-radius: 2px;">
+    </div>
+    <div class='paper-box-text' style="flex: 1; min-width: 300px;">
+      <h4 style="margin: 0 0 10px 0; font-size: 1.15em; color: #333;">HSSDCT: Factorized Spatial-Spectral Correlation for Hyperspectral Image Fusion</h4>
+      <p style="margin: 0 0 10px 0; font-size: 1.05em;">Chia-Ming Lee, Yu-How He, <a href="https://vanlinlin.github.io/" target="https://vanlinlin.github.io/">Yu-Fan Lin</a>, <strong>Jen-Wei Lee</strong>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, <a href="https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=en" target="https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=en">Li-Wei Kang</a></p>
+      <div style="margin-bottom: 5px; font-weight: bold;">Keywords</div>
+      <ul style="margin: 0 0 15px 20px; padding: 0; color: #555;">
+        <li>Hyperspectral Image Fusion</li>
+      </ul>
+    </div>
+  </div>
 
 ---
 
