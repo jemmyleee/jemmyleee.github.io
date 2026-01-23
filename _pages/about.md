@@ -33,9 +33,9 @@ Thanks for visiting — feel free to connect with me!
 ---
 
 # 🔥 Latest News
-- *2026.01* &nbsp; 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
-- *2025.12* &nbsp; 🏆 **poster** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
-- *2025.11* &nbsp; 🏆 **3th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
+- *2026.01* &nbsp; 🏆 **ICASSP 2026** paper accepted by ICASSP 2026
+- *2025.12* &nbsp; 🏆 **WACV 2026** paper accepted by WACV 2026
+- *2025.11* &nbsp; 🏆 **3th Place** at ICASSP 2026, Hyper-Object Challenge (Spectral Reconstruction & Super-Resolution).
 - *2025.06* &nbsp; 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
 - *2025.04* &nbsp; 🎉 **9th Place** at NTIRE25 Real-World Face Restoration Challenge.
 - *2025.01* &nbsp; 📈 **Top 10%** at Jane Street Market Prediction Competition.
