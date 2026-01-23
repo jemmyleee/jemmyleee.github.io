@@ -86,7 +86,7 @@ Thanks for visiting — feel free to connect with me!
 
 # 🎖 Honors and Awards
 - *2025.11*: 🏆 **3rd Place**, ICASSP 2026 Hyper-Object Challenge (Spectral Reconstruction & Super-Resolution)
-- *2025.06*: 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
+- *2025.06*: 🏆 **5th Place**, MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
 - *2025.04*: 🏆 **9th Place**, NTIRE25 Real-World Face Restoration Challenge
 - *2025.01*: 📈 **Top 10%**, Jane Street Market Prediction Competition
 - *2024.09*: 🏆 **9th Place**, NeurIPS 2024 Watermark Removal Challenge
