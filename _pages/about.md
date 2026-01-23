@@ -35,7 +35,7 @@ Thanks for visiting — feel free to connect with me!
 # 🔥 Latest News
 - *2026.01* &nbsp; 🏆 **ICASSP 2026** paper accepted by ICASSP 2026
 - *2025.12* &nbsp; 🏆 **WACV 2026** paper accepted by WACV 2026
-- *2025.11* &nbsp; 🏆 **3th Place** at ICASSP 2026, Hyper-Object Challenge (Spectral Reconstruction & Super-Resolution).
+- *2025.11* &nbsp; 🏆 **3rd Place** at ICASSP 2026, Hyper-Object Challenge (Spectral Reconstruction & Super-Resolution).
 - *2025.06* &nbsp; 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
 - *2025.04* &nbsp; 🎉 **9th Place** at NTIRE25 Real-World Face Restoration Challenge.
 - *2025.01* &nbsp; 📈 **Top 10%** at Jane Street Market Prediction Competition.
@@ -51,14 +51,14 @@ Thanks for visiting — feel free to connect with me!
       <img src='images/wweuie.png' style="width: 100%; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); border-radius: 2px;">
     </div>
     <div class='paper-box-text' style="flex: 1; min-width: 300px;">
-      <h4 style="margin: 0 0 10px 0; font-size: 1.15em; color: #333;">WWE-UIE: A Wavelet & White Balance Efficient Network for Underwater Image Enhancemen</h4>
+      <h4 style="margin: 0 0 10px 0; font-size: 1.15em; color: #333;">WWE-UIE: A Wavelet & White Balance Efficient Network for Underwater Image Enhancement</h4>
       <p style="margin: 0 0 10px 0; font-size: 1.05em;">Ching-Heng Cheng, <strong>Jen-Wei Lee</strong>, Chia-Ming Lee, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a></p>
       <div style="margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
         <span style="font-weight: bold;">Keywords</span>
         <img src="https://img.shields.io/github/stars/chingheng0808/WWE-UIE?style=social" alt="Github Stars">
       </div>
       <ul style="margin: 0 0 15px 20px; padding: 0; color: #555;">
-        <li>Single Image Shadow Removal</li>
+        <li>Underwater Image Enhancement</li>
       </ul>
       <div class="links" style="display: flex; flex-wrap: wrap; gap: 6px;">
         <a href="https://arxiv.org/abs/2511.16321" target="_blank" style="background: #7a838b; color: white; padding: 5px 15px; border-radius: 4px; font-size: 0.9em; font-weight: bold; text-decoration: none;">arxiv</a>
@@ -85,10 +85,11 @@ Thanks for visiting — feel free to connect with me!
 ---
 
 # 🎖 Honors and Awards
-- *2025.06*: 🏆 5th Place at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
-- *2025.04*: 🏆 9th Place, NTIRE25 Real-World Face Restoration Challenge
-- *2025.01*: 📈 Top 10%, Jane Street Market Prediction Competition
-- *2024.09*: 🏆 9th Place, NeurIPS 2024 Watermark Removal Challenge
+- *2025.11*: 🏆 **3rd Place**, ICASSP 2026 Hyper-Object Challenge (Spectral Reconstruction & Super-Resolution)
+- *2025.06*: 🏆 **5th Place** at MLCAS 2025 Global Wheat Full Semantic Segmentation (GWFSS) Competition
+- *2025.04*: 🏆 **9th Place**, NTIRE25 Real-World Face Restoration Challenge
+- *2025.01*: 📈 **Top 10%**, Jane Street Market Prediction Competition
+- *2024.09*: 🏆 **9th Place**, NeurIPS 2024 Watermark Removal Challenge
 
 ---
 
