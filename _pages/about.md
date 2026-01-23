@@ -24,7 +24,7 @@ Hello, I'm **Jen-Wei Lee** — a former mathematics teacher turned machine learn
 I am currently a Master’s student in Data Science at **National Cheng Kung University**, specializing in **Computer Vision** and **Deep Learning**.  
 My research interests include **adversarial attacks**, **image restoration**, and **model optimization**, combining rigorous mathematics with real-world AI applications.
 
-I have competed at **NeurIPS**, **Jane Street** and **NTIRE2025**, and contributed to academic research with a submission to **ICCV 2025**.  
+I have achieved top rankings in competitions at **NeurIPS**, **ICASSP**, **Jane Street** and **NTIRE**, and published research in top-tier conferences including **WACV** and **ICASSP**.  
 Outside of research, I love embracing uncertainty, exploring new ideas, and continuously challenging myself to grow.
 
 Thanks for visiting — feel free to connect with me!
@@ -74,7 +74,7 @@ Thanks for visiting — feel free to connect with me!
     </div>
     <div class='paper-box-text' style="flex: 1; min-width: 300px;">
       <h4 style="margin: 0 0 10px 0; font-size: 1.15em; color: #333;">HSSDCT: Factorized Spatial-Spectral Correlation for Hyperspectral Image Fusion</h4>
-      <p style="margin: 0 0 10px 0; font-size: 1.05em;">Chia-Ming Lee, Yu-How He, <a href="https://vanlinlin.github.io/" target="https://vanlinlin.github.io/">Yu-Fan Lin</a>, <strong>Jen-Wei Lee</strong>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, <a href="https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=en" target="https://scholar.google.com/citations?user=QwSzhgEAAAAJ&hl=en">Li-Wei Kang</a></p>
+      <p style="margin: 0 0 10px 0; font-size: 1.05em;">Chia-Ming Lee, Yu-How He, Yu-Fan Lin, <strong>Jen-Wei Lee</strong>, <a href="https://cchsu.info/" target="https://cchsu.info/">Chih-Chung Hsu</a>, Li-Wei Kang</p>
       <div style="margin-bottom: 5px; font-weight: bold;">Keywords</div>
       <ul style="margin: 0 0 15px 20px; padding: 0; color: #555;">
         <li>Hyperspectral Image Fusion</li>
